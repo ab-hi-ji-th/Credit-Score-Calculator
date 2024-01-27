@@ -2,4 +2,7 @@ Problem--- Small-scale farmers encounter challenges when seeking their initial l
 
 Solution--- The AI model is trained using 5 years' worth of data, including information about the region's climate, rainfall, soil fertility, underground water levels, and more. The model also factors in predetermined criteria set by the bank, such as bank statements, collateral, possession of livestock, secondary income, rental status, utility bills, and whether the loan is government-backed. After considering all this data, the model generates a new score out of 100 (or a percentage), which the bank can use to determine the potential benefit or risk associated with granting the loan.
 
+![image](https://github.com/ab-hi-ji-th/Code_Crafters/assets/143083208/dbd01bd0-d074-42b5-acc8-ec66a979ecc7)
+
+
 Methodology--- The proposed solution addresses the challenges in agriculture by offering a versatile toolkit. It begins with synthetic data generation, providing users with diverse datasets for analysis. The solution can be implemented with relative ease by utilizing Python libraries such as Pandas, NumPy, Matplotlib, and scikit-learn. The effectiveness of the solution lies in its ability to generate synthetic agricultural data, compute credit scores based on specified criteria, and create linear regression models to analyze and predict mean scores, providing valuable insights for decision-making in the agriculture sector.
