@@ -1,4 +1,4 @@
-#Credit Score Calculator
+# Credit Score Calculator
 ## Problem
    Small-scale farmers encounter challenges when seeking their initial loans, primarily stemming from the absence of a credit score. Consequently, they become ensnared in a detrimental cycle of securing loans at exorbitant interest rates from informal money lenders, impeding their ability to expand and develop their agricultural enterprises. The objective of our model is to aid financial institutions by facilitating the identification of farmers poised for future business growth. The project aims to assess the feasibility of granting a loan to a first-time farmer without a credit score.
 
