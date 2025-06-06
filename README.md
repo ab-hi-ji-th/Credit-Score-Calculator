@@ -7,7 +7,7 @@
 
 ![image](https://github.com/ab-hi-ji-th/Code_Crafters/assets/143083208/dbd01bd0-d074-42b5-acc8-ec66a979ecc7)
 
-
+ 
 ## Methodology
    The proposed solution addresses the challenges in agriculture by offering a versatile toolkit. It begins with synthetic data generation, providing users with diverse datasets for analysis. The solution can be implemented with relative ease by utilizing Python libraries such as Pandas, NumPy, Matplotlib, and scikit-learn. The effectiveness of the solution lies in its ability to generate synthetic agricultural data, compute credit scores based on specified criteria, and create linear regression models to analyze and predict mean scores, providing valuable insights for decision-making in the agriculture sector.
 
