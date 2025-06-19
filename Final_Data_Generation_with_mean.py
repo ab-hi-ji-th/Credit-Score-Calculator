@@ -9,7 +9,7 @@ df = pd.read_excel(excel_file_path)
 # Copy the existing DataFrame
 df_copy = df.copy()
 
-# Create a new column 'Mean Score' and initialize it with NaN
+# Create a new column 'Mean Score' and initialize it with NaN 
 df_copy['Mean Score'] = float('nan')
 
 # Group by 'Farmer_Id' and calculate the mean of 'Score' for each farmer
