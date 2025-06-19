@@ -5,7 +5,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
 from sklearn.metrics import mean_squared_error
 
-
+ 
 def linear_regression_and_plot():
     # Load the data
     df = pd.read_excel(r'C:\Users\Abhijith lappy\PycharmProjects\pythonProject\generated_data_with_updated_scores.xlsx')
