@@ -1,7 +1,7 @@
 # Credit Score Calculator
 ## Problem
    Small-scale farmers encounter challenges when seeking their initial loans, primarily stemming from the absence of a credit score. Consequently, they become ensnared in a detrimental cycle of securing loans at exorbitant interest rates from informal money lenders, impeding their ability to expand and develop their agricultural enterprises. The objective of our model is to aid financial institutions by facilitating the identification of farmers poised for future business growth. The project aims to assess the feasibility of granting a loan to a first-time farmer without a credit score.
-
+ 
 ## Solution  
    The AI model is trained using 5 years' worth of data, including information about the region's climate, rainfall, soil fertility, underground water levels, and more. The model also factors in predetermined criteria set by the bank, such as bank statements, collateral, possession of livestock, secondary income, rental status, utility bills, and whether the loan is government-backed. After considering all this data, the model generates a new score out of 100 (or a percentage), which the bank can use to determine the potential benefit or risk associated with granting the loan.
 
