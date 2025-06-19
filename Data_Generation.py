@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 
 # Define parameters for data generation
-num_samples = 500  # Set to the desired number of farmers
+num_samples = 500  # Set to the desired number of farmers 
 num_years = 5  # Number of years for each farmer
 min_temperature = 15
 max_temperature = 45
