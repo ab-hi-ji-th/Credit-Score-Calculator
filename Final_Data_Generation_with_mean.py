@@ -3,7 +3,7 @@ import pandas as pd
 # Specify the path to your Excel file
 excel_file_path = "C:\\Users\\Abhijith lappy\\PycharmProjects\\pythonProject\\generated_data_with_updated_scores.xlsx"
 
-# Read the Excel file into a DataFrame
+# Read the Excel file into a DataFrame 
 df = pd.read_excel(excel_file_path)
 
 # Copy the existing DataFrame
